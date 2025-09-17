@@ -35,17 +35,6 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-ghiloubi&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-ghiloubi&layout=compact&theme=radical" height="180px"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
